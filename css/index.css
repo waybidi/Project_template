@@ -1,25 +1,17 @@
 #bg{
-    position: relative;
-    border: dashed 3px;
+    border: solid 2px;
     height: fit-content;
-    padding: 10px;
 }
 
 .header{
     padding: 10px;
-    border: dashed blue 1px;
+	background-color: #33ccff;
 }
 
 .dashboard{
-    padding: 10px;
-    position: absolute;
-    left:10px;
     border:solid greenyellow 1px;
 }
 
 .content{
-    padding: 10px;
-    position: absolute;
-    right:10px;
     border:solid greenyellow 1px;
 }
