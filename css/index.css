@@ -1,0 +1,36 @@
+Head{
+    background-color: red;
+}
+
+#bg{
+    position: relative;
+    border: dashed 3px;
+    height: fit-content;
+    padding: 10px;
+}
+
+.box-top{
+    padding: 10px;
+    border: dashed blue 1px;
+}
+
+.box-left{
+    padding: 10px;
+    position: absolute;
+    left:10px;
+    border:solid greenyellow 1px;
+}
+
+.box-rigth{
+    padding: 10px;
+    position: absolute;
+    right:10px;
+    border:solid greenyellow 1px;
+}
+
+
+.box-content{
+    padding: 10px;
+    position: ;
+    border: solid red 1px;
+}
